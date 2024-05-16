@@ -41,3 +41,9 @@ GDPHYX_A.adf36006/x64/Debug/vc143.idb
 GDPHYX_A.adf36006/x64/Debug/vc143.pdb
 x64/Debug/GDPHYX_Assignment02.exe
 x64/Debug/GDPHYX_Assignment02.pdb
+*.bin
+*.ipch
+*.db
+*.vsidx
+*.log
+*.log
