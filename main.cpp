@@ -9,6 +9,7 @@
 #include "stb_image.h"
 #include <string>
 #include <iostream>
+#include "MyVector.cpp"
 
 float translate_x_mod = 0.f;
 float translate_y_mod = 0.f;
